@@ -1,0 +1,2 @@
+C:/Users/bodi1/StudioProjects/zamzaam/android/app/.cxx/Debug/3v57l2s6/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/bodi1/StudioProjects/zamzaam/android/app/.cxx/Debug/3v57l2s6/x86_64/CMakeFiles/rebuild_cache.dir
